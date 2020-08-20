@@ -7,7 +7,7 @@ https://github.com/J0hnniemac/yt-blobsync
 https://youtu.be/NG5sxBux7pA
 
 # YouTube Video Description
-n this video I create a Docker-ised script to syncronise Azure Blob Storage between Storage Accounts. I should some of the bumps in the road that caught me out.
+In this video I create a Docker-ised script to syncronise Azure Blob Storage between Storage Accounts. I should some of the bumps in the road that caught me out.
 
 This script could be used for scheduling sync between different storage accounts.
 
