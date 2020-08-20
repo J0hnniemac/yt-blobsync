@@ -4,7 +4,7 @@ Repo in Support of YouTube video with BlobSync Script.
 https://github.com/J0hnniemac/yt-blobsync
 
 # YouTube Video
-https://youtu.be/NG5sxBux7pA
+https://youtu.be/_7gNtFMUu18
 
 # YouTube Video Description
 In this video I create a Docker-ised script to syncronise Azure Blob Storage between Storage Accounts. I should some of the bumps in the road that caught me out.
