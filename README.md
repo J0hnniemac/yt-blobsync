@@ -23,3 +23,9 @@ https://etherealmind.com/how-long-does-it-take-to-become-a-ccie-from-0/
 I would love to here your feedback below and if there are any other area that you think I should look into, drop me a note in the comments.
 
 (I am just starting to get into Azure)
+
+
+# Other things to do
+If you delete a blob container in source, it will not be replicated at the destination. You could add this functionality after sync of existing containers are complete.
+
+You propapbly don't need to genereate a SAS token for every Blob Container, depend how long the copy takes. Just create a longer timed SAS Token.
